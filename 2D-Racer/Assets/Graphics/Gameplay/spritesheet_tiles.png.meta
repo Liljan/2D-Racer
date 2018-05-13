@@ -1,0 +1,4788 @@
+fileFormatVersion: 2
+guid: 3ea176715781ba64dab1a53eea90b85c
+timeCreated: 1526211400
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: land_dirt01.png
+    21300002: land_dirt02.png
+    21300004: land_dirt03.png
+    21300006: land_dirt04.png
+    21300008: land_dirt05.png
+    21300010: land_dirt06.png
+    21300012: land_dirt07.png
+    21300014: land_dirt08.png
+    21300016: land_dirt09.png
+    21300018: land_dirt10.png
+    21300020: land_dirt11.png
+    21300022: land_dirt12.png
+    21300024: land_dirt13.png
+    21300026: land_dirt14.png
+    21300028: land_grass01.png
+    21300030: land_grass02.png
+    21300032: land_grass03.png
+    21300034: land_grass04.png
+    21300036: land_grass05.png
+    21300038: land_grass06.png
+    21300040: land_grass07.png
+    21300042: land_grass08.png
+    21300044: land_grass09.png
+    21300046: land_grass10.png
+    21300048: land_grass11.png
+    21300050: land_grass12.png
+    21300052: land_grass13.png
+    21300054: land_grass14.png
+    21300056: land_sand01.png
+    21300058: land_sand02.png
+    21300060: land_sand03.png
+    21300062: land_sand04.png
+    21300064: land_sand05.png
+    21300066: land_sand06.png
+    21300068: land_sand07.png
+    21300070: land_sand08.png
+    21300072: land_sand09.png
+    21300074: land_sand10.png
+    21300076: land_sand11.png
+    21300078: land_sand12.png
+    21300080: land_sand13.png
+    21300082: land_sand14.png
+    21300084: road_asphalt01.png
+    21300086: road_asphalt02.png
+    21300088: road_asphalt03.png
+    21300090: road_asphalt04.png
+    21300092: road_asphalt05.png
+    21300094: road_asphalt06.png
+    21300096: road_asphalt07.png
+    21300098: road_asphalt08.png
+    21300100: road_asphalt09.png
+    21300102: road_asphalt10.png
+    21300104: road_asphalt11.png
+    21300106: road_asphalt12.png
+    21300108: road_asphalt13.png
+    21300110: road_asphalt14.png
+    21300112: road_asphalt15.png
+    21300114: road_asphalt16.png
+    21300116: road_asphalt17.png
+    21300118: road_asphalt18.png
+    21300120: road_asphalt19.png
+    21300122: road_asphalt20.png
+    21300124: road_asphalt21.png
+    21300126: road_asphalt22.png
+    21300128: road_asphalt23.png
+    21300130: road_asphalt24.png
+    21300132: road_asphalt25.png
+    21300134: road_asphalt26.png
+    21300136: road_asphalt27.png
+    21300138: road_asphalt28.png
+    21300140: road_asphalt29.png
+    21300142: road_asphalt30.png
+    21300144: road_asphalt31.png
+    21300146: road_asphalt32.png
+    21300148: road_asphalt33.png
+    21300150: road_asphalt34.png
+    21300152: road_asphalt35.png
+    21300154: road_asphalt36.png
+    21300156: road_asphalt37.png
+    21300158: road_asphalt38.png
+    21300160: road_asphalt39.png
+    21300162: road_asphalt40.png
+    21300164: road_asphalt41.png
+    21300166: road_asphalt42.png
+    21300168: road_asphalt43.png
+    21300170: road_asphalt44.png
+    21300172: road_asphalt45.png
+    21300174: road_asphalt46.png
+    21300176: road_asphalt47.png
+    21300178: road_asphalt48.png
+    21300180: road_asphalt49.png
+    21300182: road_asphalt50.png
+    21300184: road_asphalt51.png
+    21300186: road_asphalt52.png
+    21300188: road_asphalt53.png
+    21300190: road_asphalt54.png
+    21300192: road_asphalt55.png
+    21300194: road_asphalt56.png
+    21300196: road_asphalt57.png
+    21300198: road_asphalt58.png
+    21300200: road_asphalt59.png
+    21300202: road_asphalt60.png
+    21300204: road_asphalt61.png
+    21300206: road_asphalt62.png
+    21300208: road_asphalt63.png
+    21300210: road_asphalt64.png
+    21300212: road_asphalt65.png
+    21300214: road_asphalt66.png
+    21300216: road_asphalt67.png
+    21300218: road_asphalt68.png
+    21300220: road_asphalt69.png
+    21300222: road_asphalt70.png
+    21300224: road_asphalt71.png
+    21300226: road_asphalt72.png
+    21300228: road_asphalt73.png
+    21300230: road_asphalt74.png
+    21300232: road_asphalt75.png
+    21300234: road_asphalt76.png
+    21300236: road_asphalt77.png
+    21300238: road_asphalt78.png
+    21300240: road_asphalt79.png
+    21300242: road_asphalt80.png
+    21300244: road_asphalt81.png
+    21300246: road_asphalt82.png
+    21300248: road_asphalt83.png
+    21300250: road_asphalt84.png
+    21300252: road_asphalt85.png
+    21300254: road_asphalt86.png
+    21300256: road_asphalt87.png
+    21300258: road_asphalt88.png
+    21300260: road_asphalt89.png
+    21300262: road_asphalt90.png
+    21300264: road_dirt01.png
+    21300266: road_dirt02.png
+    21300268: road_dirt03.png
+    21300270: road_dirt04.png
+    21300272: road_dirt05.png
+    21300274: road_dirt06.png
+    21300276: road_dirt07.png
+    21300278: road_dirt08.png
+    21300280: road_dirt09.png
+    21300282: road_dirt10.png
+    21300284: road_dirt11.png
+    21300286: road_dirt12.png
+    21300288: road_dirt13.png
+    21300290: road_dirt14.png
+    21300292: road_dirt15.png
+    21300294: road_dirt16.png
+    21300296: road_dirt17.png
+    21300298: road_dirt18.png
+    21300300: road_dirt19.png
+    21300302: road_dirt20.png
+    21300304: road_dirt21.png
+    21300306: road_dirt22.png
+    21300308: road_dirt23.png
+    21300310: road_dirt24.png
+    21300312: road_dirt25.png
+    21300314: road_dirt26.png
+    21300316: road_dirt27.png
+    21300318: road_dirt28.png
+    21300320: road_dirt29.png
+    21300322: road_dirt30.png
+    21300324: road_dirt31.png
+    21300326: road_dirt32.png
+    21300328: road_dirt33.png
+    21300330: road_dirt34.png
+    21300332: road_dirt35.png
+    21300334: road_dirt36.png
+    21300336: road_dirt37.png
+    21300338: road_dirt38.png
+    21300340: road_dirt39.png
+    21300342: road_dirt40.png
+    21300344: road_dirt41.png
+    21300346: road_dirt42.png
+    21300348: road_dirt43.png
+    21300350: road_dirt44.png
+    21300352: road_dirt45.png
+    21300354: road_dirt46.png
+    21300356: road_dirt47.png
+    21300358: road_dirt48.png
+    21300360: road_dirt49.png
+    21300362: road_dirt50.png
+    21300364: road_dirt51.png
+    21300366: road_dirt52.png
+    21300368: road_dirt53.png
+    21300370: road_dirt54.png
+    21300372: road_dirt55.png
+    21300374: road_dirt56.png
+    21300376: road_dirt57.png
+    21300378: road_dirt58.png
+    21300380: road_dirt59.png
+    21300382: road_dirt60.png
+    21300384: road_dirt61.png
+    21300386: road_dirt62.png
+    21300388: road_dirt63.png
+    21300390: road_dirt64.png
+    21300392: road_dirt65.png
+    21300394: road_dirt66.png
+    21300396: road_dirt67.png
+    21300398: road_dirt68.png
+    21300400: road_dirt69.png
+    21300402: road_dirt70.png
+    21300404: road_dirt71.png
+    21300406: road_dirt72.png
+    21300408: road_dirt73.png
+    21300410: road_dirt74.png
+    21300412: road_dirt75.png
+    21300414: road_dirt76.png
+    21300416: road_dirt77.png
+    21300418: road_dirt78.png
+    21300420: road_dirt79.png
+    21300422: road_dirt80.png
+    21300424: road_dirt81.png
+    21300426: road_dirt82.png
+    21300428: road_dirt83.png
+    21300430: road_dirt84.png
+    21300432: road_dirt85.png
+    21300434: road_dirt86.png
+    21300436: road_dirt87.png
+    21300438: road_dirt88.png
+    21300440: road_dirt89.png
+    21300442: road_dirt90.png
+    21300444: road_sand01.png
+    21300446: road_sand02.png
+    21300448: road_sand03.png
+    21300450: road_sand04.png
+    21300452: road_sand05.png
+    21300454: road_sand06.png
+    21300456: road_sand07.png
+    21300458: road_sand08.png
+    21300460: road_sand09.png
+    21300462: road_sand10.png
+    21300464: road_sand11.png
+    21300466: road_sand12.png
+    21300468: road_sand13.png
+    21300470: road_sand14.png
+    21300472: road_sand15.png
+    21300474: road_sand16.png
+    21300476: road_sand17.png
+    21300478: road_sand18.png
+    21300480: road_sand19.png
+    21300482: road_sand20.png
+    21300484: road_sand21.png
+    21300486: road_sand22.png
+    21300488: road_sand23.png
+    21300490: road_sand24.png
+    21300492: road_sand25.png
+    21300494: road_sand26.png
+    21300496: road_sand27.png
+    21300498: road_sand28.png
+    21300500: road_sand29.png
+    21300502: road_sand30.png
+    21300504: road_sand31.png
+    21300506: road_sand32.png
+    21300508: road_sand33.png
+    21300510: road_sand34.png
+    21300512: road_sand35.png
+    21300514: road_sand36.png
+    21300516: road_sand37.png
+    21300518: road_sand38.png
+    21300520: road_sand39.png
+    21300522: road_sand40.png
+    21300524: road_sand41.png
+    21300526: road_sand42.png
+    21300528: road_sand43.png
+    21300530: road_sand44.png
+    21300532: road_sand45.png
+    21300534: road_sand46.png
+    21300536: road_sand47.png
+    21300538: road_sand48.png
+    21300540: road_sand49.png
+    21300542: road_sand50.png
+    21300544: road_sand51.png
+    21300546: road_sand52.png
+    21300548: road_sand53.png
+    21300550: road_sand54.png
+    21300552: road_sand55.png
+    21300554: road_sand56.png
+    21300556: road_sand57.png
+    21300558: road_sand58.png
+    21300560: road_sand59.png
+    21300562: road_sand60.png
+    21300564: road_sand61.png
+    21300566: road_sand62.png
+    21300568: road_sand63.png
+    21300570: road_sand64.png
+    21300572: road_sand65.png
+    21300574: road_sand66.png
+    21300576: road_sand67.png
+    21300578: road_sand68.png
+    21300580: road_sand69.png
+    21300582: road_sand70.png
+    21300584: road_sand71.png
+    21300586: road_sand72.png
+    21300588: road_sand73.png
+    21300590: road_sand74.png
+    21300592: road_sand75.png
+    21300594: road_sand76.png
+    21300596: road_sand77.png
+    21300598: road_sand78.png
+    21300600: road_sand79.png
+    21300602: road_sand80.png
+    21300604: road_sand81.png
+    21300606: road_sand82.png
+    21300608: road_sand83.png
+    21300610: road_sand84.png
+    21300612: road_sand85.png
+    21300614: road_sand86.png
+    21300616: road_sand87.png
+    21300618: road_sand88.png
+    21300620: road_sand89.png
+    21300622: road_sand90.png
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: land_dirt01.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt02.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt03.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt04.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt05.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt06.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt07.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt08.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt09.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt10.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt11.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt12.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt13.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_dirt14.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass01.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass02.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass03.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass04.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass05.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass06.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass07.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass08.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass09.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass10.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass11.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass12.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass13.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_grass14.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand01.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand02.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand03.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand04.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand05.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand06.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand07.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand08.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand09.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand10.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand11.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand12.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand13.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: land_sand14.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt01.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt02.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt03.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt04.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt05.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt06.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt07.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt08.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt09.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt10.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt11.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt12.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt13.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt14.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt15.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt16.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt17.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt18.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt19.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt20.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt21.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt22.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt23.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt24.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt25.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt26.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt27.png
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt28.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt29.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt30.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt31.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt32.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt33.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt34.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt35.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt36.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt37.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt38.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt39.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt40.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt41.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt42.png
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt43.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt44.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt45.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt46.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt47.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt48.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt49.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt50.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt51.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt52.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt53.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt54.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt55.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt56.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt57.png
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt58.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt59.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt60.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt61.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt62.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt63.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt64.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt65.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt66.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt67.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt68.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt69.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt70.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt71.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt72.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt73.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt74.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt75.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt76.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt77.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt78.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt79.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt80.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt81.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt82.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt83.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt84.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt85.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt86.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt87.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt88.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt89.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_asphalt90.png
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt01.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt02.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt03.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt04.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt05.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt06.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt07.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt08.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt09.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt10.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt11.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt12.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt13.png
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt14.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt15.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt16.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt17.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt18.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt19.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt20.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt21.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt22.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt23.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt24.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt25.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt26.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt27.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt28.png
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt29.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt30.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt31.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt32.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt33.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt34.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt35.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt36.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt37.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt38.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt39.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt40.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt41.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt42.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt43.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt44.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt45.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt46.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt47.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt48.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt49.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt50.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt51.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt52.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt53.png
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt54.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt55.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt56.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt57.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt58.png
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt59.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt60.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt61.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt62.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt63.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt64.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt65.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt66.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt67.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt68.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt69.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt70.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt71.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt72.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt73.png
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt74.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt75.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt76.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt77.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt78.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt79.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt80.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt81.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt82.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt83.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt84.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt85.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt86.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt87.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt88.png
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt89.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_dirt90.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand01.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand02.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand03.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand04.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand05.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand06.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand07.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand08.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand09.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand10.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand11.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand12.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand13.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand14.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand15.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand16.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand17.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand18.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand19.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand20.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand21.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand22.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand23.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand24.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand25.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand26.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand27.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand28.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand29.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand30.png
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand31.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand32.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand33.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand34.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand35.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand36.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand37.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand38.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand39.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand40.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand41.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand42.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand43.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand44.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand45.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand46.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand47.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand48.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand49.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand50.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand51.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand52.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand53.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand54.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand55.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand56.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand57.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand58.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand59.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand60.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand61.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand62.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand63.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand64.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand65.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand66.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand67.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand68.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand69.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand70.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand71.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand72.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand73.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand74.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand75.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand76.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand77.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand78.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand79.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand80.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand81.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand82.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand83.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand84.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand85.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand86.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand87.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand88.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1660
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand89.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road_sand90.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
